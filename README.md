@@ -391,7 +391,7 @@ Ce projet m'a permis de mettre en pratique et de renforcer mes compétences dans
 
 ## 15. Contexte de réalisation
 
-**Projet réalisé dans le cadre d'un stage professionnel chez H-Venture SARL.**
+**Projet réalisé dans le cadre d'un stage école chez H-Venture SARL.**
 
 Ce travail m'a permis de participer à la réalisation d'une solution e-commerce et de mettre en application les connaissances acquises durant ma formation en développement web et mobile.
 
