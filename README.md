@@ -13,6 +13,14 @@ La plateforme intègre également un espace d'administration destiné à facilit
 Ce projet m'a permis de mettre en pratique mes compétences en analyse, conception, développement web, gestion de bases de données et déploiement d'applications.
 
 ---
+🌐 Accès à la plateforme
+
+La plateforme H-Crea & Design est déployée et accessible en ligne.
+
+🔗 Visiter le site :** https://red-goshawk-398004.hostingersite.com/
+
+📸 Captures d'écran :** consultez le dossier [`captures-ecran`](captures-ecran/) pour découvrir les principales interfaces et fonctionnalités de la plateforme.
+
 
 ## 2. Contexte et objectifs
 
